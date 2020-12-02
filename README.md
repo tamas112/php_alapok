@@ -1,5 +1,5 @@
 # Hello friend. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=7e00b0) ![](https://img.shields.io/badge/Practice-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=dbde31) ![](https://img.shields.io/badge/Console_Application-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=black) 
+![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=7e00b0) ![](https://img.shields.io/badge/Knowledge_base-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=b55c5c) 
 
 //PHP és MYSQL alapok ⭐
 
